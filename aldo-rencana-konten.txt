@@ -2,6 +2,7 @@ RENCANA ALDO
 - Javascript
   *  ES6
   * Framework Javascript
+- Struktur Data Dasar
 - PHP Framerok
 - Interview
 - Vlogs
