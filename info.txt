@@ -2,4 +2,4 @@
 1. Flutter Developer
 2. Menguasai Figma
 3. Menguasai Adobe Photoshop % Premiere
-4. Menguasai Git
+4. Menguasai Blender
