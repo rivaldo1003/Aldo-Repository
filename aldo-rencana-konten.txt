@@ -1,5 +1,7 @@
 RENCANA ALDO
 - Javascript
+  *  ES6
+  * Framework Javascript
 - PHP Framerok
 - Interview
 - Vlogs
